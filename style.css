@@ -129,18 +129,18 @@ footer {
 
     #circle1 {
         background-color: rgba(207, 130, 213, 0.6);
-        width: 115px;
-        height: 115px;
+        width: 140px;
+        height: 140px;
         border-radius: 50%;
         position: relative;
-        left: 45%;
-        top: 12%;
+        left: 40%;
+        top: 10%;
     }
 
     #circle2 {
         background-color: rgba(247, 136, 167, 0.6);
-        width: 200px;
-        height: 200px;
+        width: 229px;
+        height: 229px;
         border-radius: 50%;
         position: relative;
         right: 30%;
@@ -149,11 +149,11 @@ footer {
 
     #circle3 {
         background-color: rgba(247, 193, 162, 0.7);
-        width: 150px;
-        height: 150px;
+        width: 180px;
+        height: 180px;
         border-radius: 50%;
         position: relative;
-        left: 25%;
+        left: 22%;
         bottom: 38%;
     }
 }
